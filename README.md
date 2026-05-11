@@ -36,3 +36,13 @@
 
    /tag プレイヤー名 add  hack8
         >>"Ofuro no kagami ni ekitainori nuruto kumoranakunaru." 
+
+>>すべてのライフハックを停止させるとき
+
+   /function stop
+
+
+>>個別に停止させる場合
+   
+   対象のタグを取り上げる。再度付与するときは /reload を実行してください。
+   
