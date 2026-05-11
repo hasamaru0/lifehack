@@ -4,7 +4,7 @@
 ==使い方==
 
 
-tagを付与したプレイヤーにライフハックを表示します。
+>>tagを付与したプレイヤーにライフハックを表示します。
 
    /tag プレイヤー名 add hack1
         >>"Kutu no naka Juendama de shoshukouka ari."
