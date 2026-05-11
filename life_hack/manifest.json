@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ライフハック",
+    "description": "/tag プレイヤー名 add hack で起動\n/function stop で停止\nCreated by福山挟まる",
+    "uuid": "a7f0dadf-11a6-413e-b2ef-34089b7e60f0",
+    "version": [1,0,0],
+    "min_engine_version": [1,21,0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "8e700aa2-1ff0-481d-bcf6-fd8d82749c00",
+      "version": [1,0,0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.10.0"
+    }
+  ]
+}
